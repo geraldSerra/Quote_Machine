@@ -1,2 +1,2 @@
-# Quote-Machine
+# Quote_Machine
 Random quotes generator.
