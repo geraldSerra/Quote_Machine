@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/geraldSerra/Quote_Machine/static/css/main.c906f59e.css",
+    "main.js": "/geraldSerra/Quote_Machine/static/js/main.21c34378.js",
+    "static/js/787.e4ae0a49.chunk.js": "/geraldSerra/Quote_Machine/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/geraldSerra/Quote_Machine/index.html",
+    "main.c906f59e.css.map": "/geraldSerra/Quote_Machine/static/css/main.c906f59e.css.map",
+    "main.21c34378.js.map": "/geraldSerra/Quote_Machine/static/js/main.21c34378.js.map",
+    "787.e4ae0a49.chunk.js.map": "/geraldSerra/Quote_Machine/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c906f59e.css",
+    "static/js/main.21c34378.js"
+  ]
+}
